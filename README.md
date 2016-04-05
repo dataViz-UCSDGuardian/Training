@@ -3,9 +3,9 @@
 ####**Welcome to the section of the Guardian, the UCSD official newspaper, that works on visualizing data. Our goal is to great visualizations that acurately represent data whilst also providing story.**
 
 #####**Tools We Use:**
-• Code is done primarily Python
+• Code is done primarily Python 3
 • Use the Jupyter/ Ipython 3 Notebook to write code: http://ipython.org/
-• Code is combined on Github. Our url: https://github.com/photay/UCSD_Guardian.git
+• Code is combined on Github on a team repository. Each new visualization will have it's own repository. Our url: https://github.com/dataViz-UCSDGuardian
 • The visualization libraries we use are Bokeh, Lightning and Matplotlib ◦Lightning: http://lightning-viz.org/
 ◦ Bokeh: http://bokeh.pydata.org/en/latest/
 ◦ Matplotlib: http://matplotlib.org/
@@ -18,10 +18,9 @@
 • Every visualization must include a sentence about fallcies of the data. Examples include how the data was collected,groups it left out, methods in used during it collection. All of these can affect how accurate the data is. 
 
 #####**Visualization Guidelines:**
-• 1. Colors: ◦Keep in mind color scheme for newspaper print and readers who may be colorblind. 
-◦The Tableau 20 has lists of color schemes for different situations. Link here: http://public.tableau.com/profile/chris.gerrard#!/vizhome/TableauColors/ColorPaletteswithRGBValues
-
-• 2. To be continued
+• 1. Colors: 
+◦ Keep in mind color scheme for newspaper print and readers who may be colorblind. 
+◦ The Tableau 20 has lists of color schemes for different situations. Link here: http://public.tableau.com/profile/chris.gerrard#!/vizhome/TableauColors/ColorPaletteswithRGBValues
 
 Training:
-•To be continued
+• In this training folder is 7 examples of 4 types of plots (line graphs, bar graph, bubble plots and geospatial )

@@ -1,0 +1,38 @@
+1) Programs to download on your computer
+Python version 3 or higher: http://archive.ipython.org/release/
+IPython/Jypter:  http://jupyter.readthedocs.org/en/latest/install.html
+Github: https://help.github.com/desktop/guides/getting-started/installing-github-desktop/
+
+2) These Python Libraries must be installed. 
+To download each library, go to command prompt on windows or terminal on MAC and type 
+pip instal library_name
+
+Here are the library names:
+seaborn
+openpyxl
+lightning-python
+pandas
+numpy
+matplotlib
+bokeh
+plotly
+
+
+3) Getting Started with Github
+Here is a link that is good intro to Github: 
+http://rogerdudler.github.io/git-guide/
+
+To get started with our github, open the github deskstop on your computer and type
+git clone https://github.com/dataViz-UCSDGuardian/Training.git
+
+This will clone the training session to your Github. 
+To add to the github training repo, create a new branch with your name by typing
+git checkout -b myBranchName
+
+When you name your files, include your name in each title so as to avoid merge conflicts. 
+Even better, create a folder with your name and put all your files in there. 
+
+When pushing, type
+git add . 
+git commit -m "Commiting my name's files"
+git push origin myBranchName
