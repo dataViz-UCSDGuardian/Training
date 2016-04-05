@@ -48,6 +48,8 @@ for rank, column in enumerate(majors):
             gender_degree_data[column.replace("\n", " ")].values,
             lw=2.5, color=tableau20[rank])
 
+
+'''
 for rank, column in enumerate(majors):
     plt.plot(gender_degree_data.Year.values,
              gender_degree_data[column.replace("\n", " ")].values,
@@ -98,5 +100,5 @@ plt.text(1966, -8, "Data source: nces.ed.gov/programs/digest/2013menu_tables.asp
        "\nAuthor: Randy Olson (randalolson.com / @randal_olson)"
        "\nNote: Some majors are missing because the historical data "
        "is not available for them", fontsize=10)
-
+'''
 plt.show()
