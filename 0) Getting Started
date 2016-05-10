@@ -5,7 +5,7 @@ Github: https://help.github.com/desktop/guides/getting-started/installing-github
 
 2) These Python Libraries must be installed. 
 To download each library, go to command prompt on windows or terminal on MAC and type 
-pip instal library_name
+pip install library_name
 
 Here are the library names:
 seaborn
